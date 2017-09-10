@@ -1,0 +1,25 @@
+01,
+Fraser Cafe,
+description,
+frasercafe,
+Canadian*Gluten*FreeOptions*Vegetarian*Friendly,
+family:couple:friends:affordable:,
+02,
+Next,
+description,
+next,
+American*Asian*Canadian*Vegetarian*Friendly*Vegan Options*,
+family:couple:friends:expensive:,
+03
+Aroma Meze,
+description,
+aromameze,
+International* Mediterranean*European*Greek*Vegetarian Friendly*GlutenFree*
+Business:couple:
+04
+Absinthe
+description
+Absinthe
+French, European, Canadian, International, Vegetarian Friendly
+couple:friends:
+
